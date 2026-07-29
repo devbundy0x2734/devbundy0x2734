@@ -12,10 +12,10 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  breaking things to build better ones                           │
-│  offensive security  .  AI engineering  .  systems             │
+│  offensive security  .  AI engineering  .  systems              │
 │  location: 127.0.0.0                                            │
 │  os: CachyOS / Arch Linux                                       │
-│  shell: fish                                                     │
+│  shell: fish                                                    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

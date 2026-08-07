@@ -37,7 +37,7 @@ ai/ml:       RAG pipelines . autonomous agents . local LLMs
 - building autonomous AI agents for security research
 - Linux system engineering & optimization
 - offensive security tooling & automation
-- low-level systems programming
+- systems programming
 ```
 
 ### connect
